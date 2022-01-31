@@ -1,0 +1,10 @@
+.nav-main {
+    ul {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        li:not(:first-child) {
+            margin-left:10px;
+        }
+    }
+}

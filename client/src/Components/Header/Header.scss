@@ -1,0 +1,12 @@
+.header {
+    background-color: aqua;
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    .logo {
+        font-size:1.5rem;
+        font-weight:bold;
+    }
+}
